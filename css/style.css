@@ -14,7 +14,7 @@ h1 {
 h1 {
   font-weight: normal;
   color: #fff;
-  background: #ff4c3b;
+  background: #FF6600;
   padding: 30px 15px !important;
   margin: 0 0 30px;
 }
@@ -25,18 +25,18 @@ a:visited {
   outline: none;
 }
 #section-1 a {
-  color: #ff4c3b;
+  color: #FF6600;
 }
 #section-1 a:hover {
   text-decoration: underline;
 }
 #section-4 li a {
   text-decoration: underline;
-  color: #ff4c3b;
+  color: #FF6600;
 }
 #section-5 li a {
   text-decoration: underline;
-  color: #ff4c3b;
+  color: #FF6600;
 }
 hr {
   margin: 10px 0;
@@ -372,7 +372,7 @@ pre,
   width: 100%;
 }
 .theme-menu .quick-link {
-  background: #ff4c3b;
+  background: #FF6600;
   color: #fff;
   font-size: 13px;
   margin-bottom: 8px;
